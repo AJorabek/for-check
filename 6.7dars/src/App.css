@@ -1,0 +1,10 @@
+ul{
+    list-style: none;
+    position: relative;
+}
+.listH4{
+    position: static;
+}
+.completed{
+    color: rgb(89, 224, 89);
+}
